@@ -1,0 +1,25 @@
+.lead__container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0px 0px 69px 0px;
+  overflow: hidden;
+}
+@media screen and (min-width: 768px) {
+  .lead__container {
+    margin: 0px 0px 88px 0px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .lead__container {
+    margin: 0px 48px 92px 48px;
+    min-width: 928px;
+  }
+}
+@media screen and (min-width: 1280px) {
+  .lead__container {
+    margin: 0px 148px 92px 148px;
+    min-width: 984px;
+  }
+}
+

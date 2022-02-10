@@ -1,0 +1,21 @@
+.places__website {
+  margin: 0px 16px 32px 16px;
+  min-width: 288px;
+  max-height: 46px;
+  display: flex;
+  align-self: end;
+  flex-direction: column;
+  justify-content: space-between;
+}
+@media screen and (min-width: 768px) {
+  .places__website {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 48px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .places__website {
+    margin-top: 30px;
+  }
+}

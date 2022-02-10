@@ -1,0 +1,21 @@
+.lead__image-label {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 1.4;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin: 0;
+    margin-left: 16px;
+    margin-top: 8px;
+  }
+  @media screen and (min-width: 768px) {
+    .lead__image-label {
+      margin-left: 24px;
+    }
+  }
+  @media screen and (min-width: 1024px) {
+    .lead__image-label {
+      margin-left: 0;
+    }
+  }
