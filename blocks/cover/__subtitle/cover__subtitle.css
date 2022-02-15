@@ -6,6 +6,8 @@
   line-height: 1.1;
   text-align: center;
   position: relative;
+  align-items: center;
+  max-width: 288px;
 }
 @media screen and (min-width: 768px) {
   .cover__subtitle {
@@ -15,7 +17,6 @@
     line-height: 1.2;
   }
 }
-
 @media screen and (min-width: 1024px) {
   .cover__subtitle {
     max-width: 360px;

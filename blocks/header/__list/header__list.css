@@ -1,4 +1,4 @@
-.header__lang-links {
+.header__list {
     list-style: none;
     display: grid;
     grid-template-columns: repeat(2, min-content);

@@ -1,13 +1,13 @@
 .root {
-    background: #2a2c2f;
-    margin: 0;
-    padding: 0;
-    color: #ffffff;
-    font-family: "Inter";
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-rendering: optimizeLegibility;
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
-    -moz-text-size-adjust: 100%;
-  }
+  background: #2a2c2f;
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  font-family: "Inter";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+}

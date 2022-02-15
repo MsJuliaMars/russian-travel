@@ -2,3 +2,8 @@
     width: 100%;
     margin-bottom: 32px;
   }
+@media screen and (min-width: 768px) {
+  .places__image {
+    margin-bottom: 0;
+  }
+}
